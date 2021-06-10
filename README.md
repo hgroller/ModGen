@@ -1,4 +1,6 @@
 # ModGen “Simplicity is the ultimate sophistication.” – Leonardo da Vinci.
+
+# Arthur C. Clarke who said: "Any sufficiently advanced technology is indistinguishable from magic."
 https://community.cadence.com/cadence_blogs_8/b/cic/posts/an-introduction-to-modgen
 https://community.cadence.com/cadence_blogs_8/b/cic/posts/virtuosity-layout-reuse-flow-in-modgens
 https://community.cadence.com/cadence_blogs_8/b/cic/posts/stacked-devices-in-modgen
